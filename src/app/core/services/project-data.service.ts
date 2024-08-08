@@ -11,7 +11,7 @@ export class ProjectDataService {
       title: 'myPortofolio',
       description:
         "Un site web vitrine en ligne listant mes compétences et réalisations. Il sert de CV numérique, mettant en valeur mes meilleurs travaux et projets. Les clients potentiels, employeurs ou collaborateurs peuvent l'explorer pour comprendre mon expertise et mon style. Bien conçu, il est un outil puissant pour développer une marque professionnelle et attirer de nouvelles opportunités.",
-      githubLink: 'https://github.com/amanibisimwa',
+      githubLink: 'https://github.com/DrcMind-Youtube/myPortfolio',
       website: 'https://github.com/amanibisimwa',
       architecture:
         "Le framework Angular pour la partie client en faisant le rendu serveur pour l'optimisation de chargement et la perfomance",
